@@ -19,4 +19,4 @@ jobs:
       - name: Run linter
         run: uv run pylint src
       - name: Run tests
-        run: uv run --with coverage coverage run --branch -m pytest
+        run: uv run coverage run --branch -m pytest
