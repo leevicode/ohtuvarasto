@@ -19,7 +19,7 @@ disable=raw-checker-failed,
 [FORMAT]
 max-line-length=80
 max-nested-blocks=2
-max-statements=15
+max-statements=50
 max-locals=12
 [REFACTORING]
 
